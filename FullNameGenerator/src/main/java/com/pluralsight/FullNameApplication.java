@@ -12,7 +12,7 @@ public class FullNameApplication {
         String middleName = PromptForString("Middle name: ");
         String lastName = PromptForString("Last name: ");
         String suffix = PromptForString("Suffix: ");
-        
+
         String fullName;
 
         middleName = (middleName.isBlank()) ? " " : " " + middleName + " ";
