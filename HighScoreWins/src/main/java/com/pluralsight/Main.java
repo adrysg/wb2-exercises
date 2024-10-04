@@ -36,7 +36,6 @@ public class Main {
         }
 
             System.out.println(userScores);
-            System.out.println(indexOfBar);
             System.out.println(leftScore);
             System.out.println(rightScore);
         }
