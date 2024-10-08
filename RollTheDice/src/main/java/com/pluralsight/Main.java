@@ -7,9 +7,11 @@ public class Main {
 //Create an instance of Dice named "dice"
         Dice dice = new Dice();
 
-//Identify variables
+//Identify variables for rolls 1 & 2
         int roll1;
         int roll2;
+
+//Identify variables to count rolls resulting in 2, 4, 6, & 7
         int counterFor2 = 0;
         int counterFor4 = 0;
         int counterFor6 = 0;
