@@ -8,7 +8,7 @@ public class Main {
         Dice dice = new Dice();
 
 //Identify variables
-        int roll1 = 0;
+        int roll1;
         int roll2;
         int counterFor2 = 0;
         int counterFor4 = 0;
